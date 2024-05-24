@@ -1,6 +1,6 @@
 # Weather App
 
-A simple weather application built with HTML, SCSS, and vanilla JavaScript. This app allows users to check the current weather conditions for a specific city.
+A simple weather application built with **HTML**, **SCSS**, and **vanilla JavaScript**. This app allows users to check the current weather conditions for a specific city.
 
 ![Weather App Screenshot](/image.png)
 
